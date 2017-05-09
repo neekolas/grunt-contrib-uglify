@@ -19,7 +19,7 @@
     "chalk": "^1.0.0",
     "maxmin": "^1.1.0",
     "object.assign": "^4.0.4",
-    "uglify-js": "github:mishoo/UglifyJS2#dee5a27516cb574dda5fc3d23a64344f0ea654b6",
+    "uglify-js": "github:mishoo/UglifyJS2#2433bb4e52a5a9be06ed9ac344cc91fafac62ab1",
     "uri-path": "^1.0.0"
   },
   "devDependencies": {
